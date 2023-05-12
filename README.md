@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   - ただ、これはやってはだめだ、ここを知らないと道に迷う、という絶対に知っておくべき点は学べる範囲だと思います。本書では、データ分析において間違えやすい、誤解しやすい点を共有し、データ分析全体をよくする目的で、かつ下記２点を中心に自分なりにまとめました。
     - データ分析の技術書・専門書に分野ごとには書かれてはいるが1つにまとまっておらず目に触れにくいもの
     - データ分析の技術書・専門書でもスルーされていたらい場合によっては誤っていると思われるもの
-
+- 【作成中】[FT図解の言語](https://github.com/aokikenichi/aokikenichi/blob/main/FT%E5%9B%B3%E8%A7%A3%E3%81%AE%E8%A8%80%E8%AA%9E.ipynb)
+  - [フィナンシャル・タイムズ式 図解の技術 世界最高峰の経済紙はどのようにデータを見せているのか](https://amzn.to/3nUWFr6)が素晴らしかったのですがPython版がなかったので作り出しております。
 ----
 # SNS
 - 📫 How to reach me:[https://twitter.com/aokikenichi](https://twitter.com/aokikenichi)
