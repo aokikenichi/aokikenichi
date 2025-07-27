@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ----
 # 🔭 I’m currently working on ... GitHub上の活動
+- 他ではないようなプロンプト集 https://github.com/aokikenichi/Prompts
+  - メタプロンプト
+  - 短歌、作画など
 - 【作成中】 ヤバいデータ分析 https://github.com/aokikenichi/freak_data_analysis
   - データ分析はなんて広いんだろう。影響力の強まりに応じ、自然・社会・人間ほぼすべてが対象となりどんどん拡大していく。対象に応じ手法も広がり複雑化し、学ぶべきことが多すぎる。
   - ただ、これはやってはだめだ、ここを知らないと道に迷う、という絶対に知っておくべき点は学べる範囲だと思います。本書では、データ分析において間違えやすい、誤解しやすい点を共有し、データ分析全体をよくする目的で、かつ下記２点を中心に自分なりにまとめました。
