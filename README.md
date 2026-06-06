@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+<div align="center">
+  <img src="ken_header.jpeg"/>
+</div>
+
 # @aokikenichi の Index
 
 ⚡ Fun fact: ...自己紹介。
