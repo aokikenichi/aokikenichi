@@ -32,6 +32,8 @@ IT企業のR＆D部門にて、AI周りの動向調査、技術検証などを�
 # 🔭 I’m currently working on ... 
 
 ## GitHub
+- [世界モデル入門](https://github.com/aokikenichi/WorldModels)
+  - 日本語資料が少ない世界モデルについて70ページの入門を
 - [社会シミュラクラ観測所](https://aokikenichi.github.io/SocialSimulacraSocialObservatory/)
   - [他ではないようなプロンプト集」の発展として、「社会シミュラクラ」を気軽に体験して広めようという試みです
 - [他ではないようなプロンプト集](https://github.com/aokikenichi/Prompts)
