@@ -51,7 +51,7 @@ IT企業のR＆D部門にて、AI周りの動向調査、技術検証などを�
 ## Q&Aサイト
 - [https://teratail.com/users/aokikenichi](https://teratail.com/users/aokikenichi)
   - データ分析を中心に回答しています。回答数390、スコア2,000以上あります
-## 技術者スコアリング&プロフィーすサイト
+## 技術者スコアリング&プロフィールサイト
 - [Lapras/aokikenichi](https://lapras.com/public/KQSRYAC)
 
 ## 独立系研究者
